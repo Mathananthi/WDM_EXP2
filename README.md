@@ -42,7 +42,12 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-
+### Buying Table:
+![Screenshot 2024-08-13 091751](https://github.com/user-attachments/assets/c30a6346-9264-47c8-83f4-5cfc60e496ac)
+### Banking Table:
+![Screenshot 2024-08-13 092014](https://github.com/user-attachments/assets/04d68c4d-1912-4e00-9b30-51c912edab6d)
+### Employee Table:
+![Screenshot 2024-08-13 092158](https://github.com/user-attachments/assets/40702c7f-ed6f-48ff-91bd-47387aee2614)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +58,12 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+### Buying Table:
+![Screenshot 2024-08-13 092535](https://github.com/user-attachments/assets/e06f0d13-12e2-4f8c-bf65-5a0f4b860909)
+### Banking Table:
+![Screenshot 2024-08-13 092857](https://github.com/user-attachments/assets/247d9f04-eada-4f4d-94e0-bd4f9520896f)
+### Employee Table:
+![Screenshot 2024-08-13 093016](https://github.com/user-attachments/assets/9ae1d660-ee4f-4b6b-89c7-66bee1824f46)
 
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
